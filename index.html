@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Hello, World! - A-Frame</title>
+    <meta name="description" content="Hello, World! - A-Frame">
+    <script src="https://aframe.io/releases/0.5.0/aframe.min.js"></script>
+  </head>
+  <body>
+    <a-scene>
+		<a-assets>
+			<a-asset-item id="object" src="https://cdn.rawgit.com/oreoadidas/aframe-model-upload/master/pillars.obj"></a-asset-item>
+			<a-asset-item id="material" src="https://cdn.rawgit.com/oreoadidas/aframe-model-upload/master/pillars.mtl"></a-asset-item>
+			
+		</a-assets>
+		
+		<a-obj-model src="#object" mtl="#material"></a-obj-model>
+		
+		<a-entity position="2.999 0 -2.342" rotation="0 0 0" scale="0.01 0.01 0.01">
+			
+		</a-entity>
+		
+      <a-sky src="sky.jpg"></a-sky>
+    </a-scene>
+  </body>
+</html>
