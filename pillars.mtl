@@ -7,9 +7,7 @@ newmtl wire_143224087
 	Tr 0
 	Tf 1 1 1
 	illum 2
-	Ka 0.5608 0.8784 0.3412
-	Kd 0.5608 0.8784 0.3412
-	Ks 0.3500 0.3500 0.3500
+
 	map_Ka ground\ground_dif.jpg
 	map_Kd ground\ground_dif.jpg
 	
@@ -19,9 +17,7 @@ newmtl wire_224086086
 	Tr 0
 	Tf 1 1 1
 	illum 2
-	Ka 0.8784 0.3373 0.3373
-	Kd 0.8784 0.3373 0.3373
-	Ks 0.3500 0.3500 0.3500
+
 	map_Ka ground\ground_dif.jpg
 	map_Kd ground\ground_dif.jpg
 	
@@ -31,9 +27,8 @@ newmtl wire_154215229
 	Tr 0
 	Tf 1 1 1
 	illum 2
-	Ka 0.6039 0.8431 0.8980
-	Kd 0.6039 0.8431 0.8980
-	Ks 0.3500 0.3500 0.3500
+
+
 	map_Ka ground\ground_dif.jpg
 	map_Kd ground\ground_dif.jpg
 	
@@ -43,9 +38,7 @@ newmtl wire_086086086
 	Tr 0
 	Tf 1 1 1
 	illum 2
-	Ka 0.3373 0.3373 0.3373
-	Kd 0.3373 0.3373 0.3373
-	Ks 0.3500 0.3500 0.3500
+
 	map_Ka Herringbone_by_baxt5528\FloorHerringbone0011_L.jpg
 	map_Kd Herringbone_by_baxt5528\FloorHerringbone0011_L.jpg
 	
@@ -55,9 +48,7 @@ newmtl wire_135059008
 	Tr 0
 	Tf 1 1 1
 	illum 2
-	Ka 0.5294 0.2314 0.0314
-	Kd 0.5294 0.2314 0.0314
-	Ks 0.3500 0.3500 0.3500
+
 	map_Ka pebbles\SandPebbles0027_1_S.jpg
 	map_Kd pebbles\SandPebbles0027_1_S.jpg
 	
@@ -68,10 +59,7 @@ newmtl Material__88
 	Tr 0.0000
 	Tf 1.0000 1.0000 1.0000 
 	illum 2
-	Ka 0.5880 0.5880 0.5880
-	Kd 0.5880 0.5880 0.5880
-	Ks 0.0000 0.0000 0.0000
-	Ke 0.0000 0.0000 0.0000
+
 	map_Ka ground\ground_dif.jpg
 	map_Kd ground\ground_dif.jpg
 
@@ -81,9 +69,7 @@ newmtl wire_141007058
 	Tr 0
 	Tf 1 1 1
 	illum 2
-	Ka 0.5529 0.0275 0.2275
-	Kd 0.5529 0.0275 0.2275
-	Ks 0.3500 0.3500 0.3500
+
 	map_Ka Herringbone_by_baxt5528\FloorHerringbone0011_L.jpg
 	map_Kd Herringbone_by_baxt5528\FloorHerringbone0011_L.jpg
 
@@ -93,8 +79,6 @@ newmtl wire_225143087
 	Tr 0
 	Tf 1 1 1
 	illum 2
-	Ka 0.8824 0.5608 0.3412
-	Kd 0.8824 0.5608 0.3412
-	Ks 0.3500 0.3500 0.3500
+
 	map_Ka pebbles\SandPebbles0027_1_S.jpg
 	map_Kd pebbles\SandPebbles0027_1_S.jpg
